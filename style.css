@@ -1,0 +1,40 @@
+/* CSS files add styling rules to your content */
+
+@import url('https://fonts.googleapis.com/css2?family=Grandstander:wght@200&display=swap');
+
+body{
+  background-color:  pink;
+}
+
+.container{
+  font-size:80px;
+  font-family:'Grandstander', cursive;
+  text-align: center;
+}
+
+
+#i{
+  color:red
+;
+}
+#b{
+  color:orange;
+}
+#t{
+  color:yellow;
+}
+#p{
+  color:green;
+}
+
+#h{
+  color:blue;
+}
+
+#a{
+  color:indigo;
+}
+
+#l{
+  color:purple;
+}
